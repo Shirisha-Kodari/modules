@@ -1,0 +1,15 @@
+[submodule "terraform-aws-alb"]
+	path = terraform-aws-alb
+	url = https://github.com/Shirisha-Kodari/terraform-aws-alb.git
+[submodule "terraform-aws-ecs"]
+	path = terraform-aws-ecs
+	url = https://github.com/Shirisha-Kodari/terraform-aws-ecs.git
+[submodule "terraform-aws-rds"]
+	path = terraform-aws-rds
+	url = https://github.com/Shirisha-Kodari/terraform-aws-rds.git
+[submodule "terraform-aws-sg"]
+	path = terraform-aws-sg
+	url = https://github.com/Shirisha-Kodari/terraform-aws-sg.git
+[submodule "terraform-aws-vpc"]
+	path = terraform-aws-vpc
+	url = https://github.com/Shirisha-Kodari/terraform-aws-vpc.git
